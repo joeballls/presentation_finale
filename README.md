@@ -3,7 +3,7 @@
   Avec chaque génération de consoles, les capacités de ceux-ci avance à mesure que la technologie évolue.
   En seulement quelque dizaine d'années, nous sommes passés de jeux basés sur du texte à des visuels photoréalistes.
   
-<img src="images/text_rpg.png" alt="MUD" width="400" height="350"/>
+<img src="images/text_rpg.png" alt="MUD" width="450" height="350"/>
   
 >Interface de Will Crowther's Adventure (1976)
 
@@ -33,9 +33,9 @@ Ceci n'a pas duré très longtemps par contre puisqu'ils ne pouvaient pas rivali
 
 >Asteroids (1979)
 
-## Graphiques 2D
+## Sprites
 
-Utilisé dans le passé et même encore aujourd'hui. Le terme Graphiques 2D est très général et inclus plusieurs sortes de manières de représenter des illustrations.
+Utilisé dans le passé et même encore aujourd'hui. Le terme Graphiques 2D est très général et inclus plusieurs sortes de manières de représenter des illustrations. La majorité de ceux-ci utilisent des sprites.
 Par exemple:
 
 ### Top down perspective
@@ -91,15 +91,54 @@ Le fantôme scintillait partout pour représenter tout les fantômes qui apparai
 
 ## La troisième génération
 
-Réfère aux consoles et ordinateurs des années 1983 à 1987. Aussi connu en tant que l'ère 8 bits, c'est ici que Nintendo à commencer à se faire un nom, avec la sortie de la Famicom (ou la Nintendo Entertainment System ici). Autre que plus de mémoire dans les consoles, une innovation majeure de cette génération inclus la capabilité de sauvegarder ton progrès dans des jeux.
+Réfère aux consoles et ordinateurs des années 1983 à 1987. Aussi connu en tant que l'ère du 8 bit, c'est ici que Nintendo à commencer à se faire un nom, avec la sortie de la Famicom (ou la Nintendo Entertainment System ici). Autre que plus de mémoire dans les consoles, donc plus de sprites, couleurs et détails en général, une innovation majeure de cette génération inclus la capabilité de sauvegarder ton progrès dans des jeux.
 
+<img src="images/zelda.gif" alt="zelder" width="540" height="400"/>
+
+Plus de couleurs et resolution! Meilleur musique!
+
+> The Legend of Zelda (1986)
+
+## La quatrième génération
+
+Réfère aux consoles et ordinateurs des années 1987 à 1996. Aussi connu en tant que l'ère du 16 bit, il n'y a pas vraiment d'innovation dans cette génération, autre que plus de mémoire. Cette génération est aussi la dernière qui favorisait les jeux en 2D.
+
+<img src="images/zeldalttp.gif" alt="zelder2" width="540" height="400"/>
+
+> The Legend of Zelda: A Link to the Past (1986)
+
+Les couleurs!!!
 
 ## 3D
 
 Comme la section sur le 2D, le terme 3D peut désigner plusieurs moyens de représenter des graphiques mais l'élément en commun entre tout ceux-là c'est que on peut se déplacer dans les 6 directions.
 
-early 3d games here
+### 3D Fixe
 
+Semblable à des jeux sidescroller, la caméra est dans un emplacement fixe mais presque tout les éléments sur l'écran sont en 3D.
+
+<img src="images/finalfantasy7.jpg" alt="toomanyofthesegames" width="640" height="400"/>
+
+> Final Fantasy VII (1997)
+
+Remarquez les polygones sur les personnages!
+
+### Première Personne
+
+Jeux qui utilise la perspective de la première personne. La grande majorité de ceux-ci ont des armes à feu.
+
+<img src="images/csgo.gif" alt="cs" width="640" height="360"/>
+
+> Counter-Strike: Global Offensive (2012)
+
+### Troisième Personne
+Jeux qui utilise la perspective de la troisième personne.
+
+<img src="images/mario64.jpg" alt="64" width="640" height="450"/>
+
+> Super Mario 64 (1996)
+
+J'aurais mis un gif mais je n'ai pas de jeux à la 3e personne lol
 
 
 ### Voxel
@@ -111,3 +150,56 @@ Au lieu d'utiliser des triangles pour représenter des formes, le voxel utilise 
 
 > Minecraft (2011)
 
+Il n'y a pas vraiment de variété dans le 3D.
+
+# Les graphiques 3D
+
+Utilisé dans la grande majorité des jeux contemporaire, ceux-ci consistent principalement de polygones pour créer des modèles 3D mais il y a certaine exceptions.
+
+## La cinquième génération
+
+Réfère aux consoles des années 1993 à 2006. Aussi connu en tant que l'ère du 3D. C'est à cette génération que les jeux ont fait un saut du 2D au 3D. Autre qu'une dimension en plus, la résolution à grandement monté , le nombre de couleurs qu'on peut choisir monte à environ 16 million et la qualité de son est monté à la qualité CD. Puisque la mémoire reste limité, beaucoup des modèles 3D avaient des polygones visible.
+
+<img src="images/crash.jpg" alt="crash" width="540" height="400"/>
+
+> Crash Bandicoot (1996)
+
+## La sixième génération
+
+Réfère aux consoles des années 1998 à 2005. Il n'y a pas vraiment d'innovations à noter autre que l'utilisation de l'internet pour faciliter le multijoueur et des jeux en HD.
+
+<img src="images/hitandrun.gif" alt="sibmon" width="840" height="500"/>
+
+> The Simpsons: Hit and Run (2003)
+
+## La septième génération
+
+Réfère aux consoles des années 2005 à 2012. Il n'y a pas vraiment d'innovations à noter autre que de la meilleur performance en générale.
+
+<img src="images/wiisports.jpg" alt="wii" width="840" height="500"/>
+
+> Wii Sports (2006)
+
+## Huitième génération
+
+Réfère aux consoles des années 2012 à 2019. C'est ici qu'il y a des avancements en Realité Virtuelle et en Cloud Gaming. Performance générales améliorées.
+
+<img src="images/h3vr.jpg" alt="h3vr" width="840" height="500"/>
+
+> Hotdogs, Horseshoes and Handgrenades (2016)
+
+[Lien Steam](https://store.steampowered.com/app/450540/Hot_Dogs_Horseshoes__Hand_Grenades/)
+
+J'aurais fait un gif mais ça me tentait pas de mettre mon casque
+
+## Neuvième génération
+
+Réfère aux consoles des années 2020 et à une date indéfinie dans le futur. Bla bla meilleur performance.
+
+<img src="images/spodermen.png" alt="speederboy" width="840" height="500"/>
+
+> Marvel's Spider-Man Remastered (2020)
+
+# Conclusion
+
+En conclusion, les graphiques se sont amélioré très rapidement. En une quarantaine d'années, on est passé à des lettres à des jeux qui sont plus beaux que la vraie vie.
