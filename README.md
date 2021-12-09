@@ -134,12 +134,9 @@ Jeux qui utilise la perspective de la première personne. La grande majorité de
 ### Troisième Personne
 Jeux qui utilise la perspective de la troisième personne.
 
-<img src="images/mario64.jpg" alt="64" width="640" height="450"/>
+<img src="images/gta5.gif" alt="hotline" width="640" height="360"/>
 
-> Super Mario 64 (1996)
-
-J'aurais mis un gif mais je n'ai pas de jeux à la 3e personne lol
-
+> Grand Theft Auto 5 (2013)
 
 ### Voxel
 
